@@ -9,7 +9,7 @@ classifiers=[
 
 setup(
     name = 'Layla Eval',
-    version = '1.0.0',
+    version = '1.0.1',
     author= "JewishLewish",
     description="Math Evaluator that uses C Code over Python",
     packages=find_packages(),
