@@ -1,0 +1,8 @@
+import time
+
+start = time.time()
+
+for _ in range(1_000_000_000):
+    continue
+
+print(time.time() - start)

@@ -1,0 +1,6 @@
+zLib License
+
+The work of the python module was made to be an extension of the C Library, tinyexpr.
+zLib License: https://github.com/codeplea/tinyexpr/blob/master/LICENSE
+
+Never the less if you follow the zLib License then you are open to usage the Python Package (and/or) the C library.
